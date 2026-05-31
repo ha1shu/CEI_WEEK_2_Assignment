@@ -1,6 +1,6 @@
 
 ```text
-CEI_Week2_SQL_Task/
+CEI_Week2_Assignment/
 │
 ├── 01_schema_setup.sql          ← CREATE TABLE statements
 ├── 02_data_insert.sql           ← INSERT statements (sample data)
